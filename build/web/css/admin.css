@@ -1,0 +1,46 @@
+body{
+    background-color:white;
+     padding-top: 40px;
+/*    background-image: url(img/23.jpg);
+    
+    padding-bottom: 400px;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+   background-position:center; */
+}
+
+form
+{
+    padding-left:400px;
+    padding-top:100px;
+  }
+  
+  p{   
+     padding-left: 600px; 
+  }
+  h1
+  {
+      padding-left: 700px;
+      font-family: cursive;
+      color:#0099cc;
+  }
+   h2
+  {
+      padding-left: 300px;
+      font-family: cursive;
+      color:#0099cc;
+  }
+  .button-bar{
+      padding-left: 900px;
+  }
+  .button-bar2{
+      padding-left: 500px;
+  }
+   .button-bar3{
+          padding-top:200px;
+      padding-left: 500px;
+  }
+
+  
+
+
